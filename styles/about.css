@@ -10,7 +10,9 @@ ul{
     text-align: center;
     
 }
-
+a:hover{
+    color: white;
+}
 li{
     font-family: 'Courier New', Courier, monospace;
     display:inline-block;

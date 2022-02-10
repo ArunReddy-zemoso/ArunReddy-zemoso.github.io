@@ -20,6 +20,11 @@ li{
 
 a{
     font-size: 50px;
+    
+}
+
+a:hover{
+    color: white;
 }
 
 #DragonBallZ{
