@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://syanart.com/wp-content/uploads/2018/02/Dragon-Ball-Super-Goku-Ultra-Instinct-White-4K.jpg);
+    height:auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+ul{
+    text-align: center;
+    
+}
+
+ #contact li{
+    font-family: 'Courier New', Courier, monospace;
+    display:inline-block;
+    margin-left: 7%;
+    margin-right: 7%;
+
+}
+
+a{
+    font-size: 50px;
+}
+
+#contacts li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    color: aliceblue;
+    margin-top: 100px;
+    float: left;
+    display: block;
+    margin-left: 10%;
+}

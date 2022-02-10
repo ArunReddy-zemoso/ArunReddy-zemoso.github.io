@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/3078924.jpg);
+    height:fit-content;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+ul{
+    text-align: center;
+    
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    display:inline-block;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+a{
+    font-size: 50px;
+}
+
+#DragonBallZ{
+    color: rgb(255, 255, 255);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-top: 500px;
+    font-size: 250px;
+}

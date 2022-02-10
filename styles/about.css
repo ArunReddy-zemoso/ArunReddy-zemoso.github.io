@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2958867.jpg);
+    height:auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+ul{
+    text-align: center;
+    
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    display:inline-block;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+a{
+    font-size: 50px;
+}
+
+p{
+    font-size: 50px;
+    color: rgb(240, 22, 22);
+    opacity:1;
+}

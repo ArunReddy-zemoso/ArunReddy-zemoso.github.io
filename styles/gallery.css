@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://wallpapers-hub.art/wallpaper-images/715300.jpg);
+    height:auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+ul{
+    text-align: center;
+    
+}
+
+#gallery li{
+    font-family: 'Courier New', Courier, monospace;
+    display:inline-block;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+a{
+    font-size: 50px;
+}
+
+#photos li{
+    display: inline;
+    float: left;
+}
+#photos li img{
+    height: 500px;
+    width: 500px;
+    padding: 10px;
+}
